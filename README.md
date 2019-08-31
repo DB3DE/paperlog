@@ -3,7 +3,7 @@ This is a LaTex project for generating paper ham logbook pages
 
 For adujusting to your needs edit the paperlog.tex file and compile.
 You should at least edit the follwing section:
-
+```latex 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Start here editing!
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -18,6 +18,6 @@ You should at least edit the follwing section:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Stop here editing!
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+```
 A sample page looks like this:
-
+![Sample Logpage](https://github.com/DB3DE/paperlog/blob/master/samples/sample_page.png)
