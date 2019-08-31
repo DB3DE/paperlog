@@ -19,10 +19,11 @@
 %% Start here editing!
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\logpages}{20}      %How many logpages do you want?
+\newcommand{\logpages}{2}      %How many logpages do you want?
 \newcommand{\callsign}{DB3DE}   %What is your callsign
 \newcommand{\startdate}{}       %What is the startdate of this logbook - put \today for ... today
 \newcommand{\lastdate}{}        %Fill this if you want a stopdate 
+\newcommand{\thelogo}{./res/darc_logo}  %this is what logo is put
 \newcommand{\includerst}{}      %include the RST mapping at the last pages - remove by commenting using a %
 \newcommand{\includebandplan}{} %include the bandplan files - remove by commenting using a %
 
@@ -113,7 +114,7 @@
  
        \vspace{0.8cm}
  
-       \includegraphics[width=0.12\textwidth]{darc_logo}
+       \includegraphics[width=0.12\textwidth]{\thelogo}
 
  
     \vspace{1.5cm}
