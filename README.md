@@ -21,3 +21,5 @@ You should at least edit the follwing section:
 ```
 A sample page looks like this:
 ![Sample Logpage](https://github.com/DB3DE/paperlog/blob/master/samples/sample_page.png)
+
+[Sample PDF](https://github.com/DB3DE/paperlog/blob/master/samples/sample_logbook.pdf)
