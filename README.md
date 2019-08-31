@@ -1,5 +1,5 @@
 # paperlog
-This is a LaTex project for generating paper ham logbook pages
+This is a LaTex project for generating paper ham logbook pages. Print them in A4, doublesided. Binding is at the long side of the page.
 
 For adujusting to your needs edit the paperlog.tex file and compile.
 You should at least edit the follwing section:
